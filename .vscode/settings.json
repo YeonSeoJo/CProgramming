@@ -1,5 +1,9 @@
 {
   "files.associations": {
-    "test1.C": "cpp"
-  }
+    "test1.C": "cpp",
+    "test2-1.C": "cpp",
+    "test2-2.C": "cpp",
+    "test2-3.C": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "disabled"
 }
